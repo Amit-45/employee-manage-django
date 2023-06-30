@@ -9,6 +9,10 @@ Admin dashboard:
 
 <img width="1428" alt="Screenshot 2023-07-01 at 12 27 12 AM" src="https://github.com/Amit-45/employee-manage-django/assets/77204104/2e4e351c-f0fb-492f-b8b6-2357f9aad5a3">
 
+Add Form:
+
+<img width="1404" alt="Screenshot 2023-07-01 at 12 34 18 AM" src="https://github.com/Amit-45/employee-manage-django/assets/77204104/b0093d96-d6b8-4275-b2f6-3683862e6257">
+
 ## Technologies Used
 
 The Employment Management System is developed using the following technologies:
