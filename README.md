@@ -2,6 +2,13 @@
 
 The Employment Management System is project designed to streamline the management of employees within an organization. It provides a comprehensive solution for managing employee data, including their personal information, work details, and feedback. The system aims to enhance efficiency, improve communication, and simplify administrative tasks related to employee management.
 
+<img width="1428" alt="Screenshot 2023-07-01 at 12 24 42 AM" src="https://github.com/Amit-45/employee-manage-django/assets/77204104/c8a2464c-270b-465b-98b9-ed3d980a0f84">
+
+
+Admin dashboard:
+
+<img width="1428" alt="Screenshot 2023-07-01 at 12 27 12 AM" src="https://github.com/Amit-45/employee-manage-django/assets/77204104/2e4e351c-f0fb-492f-b8b6-2357f9aad5a3">
+
 ## Technologies Used
 
 The Employment Management System is developed using the following technologies:
@@ -16,6 +23,9 @@ The Employment Management System is developed using the following technologies:
 
 - **SQLite**: SQLite is a lightweight and serverless database engine used in this project for data storage. It provides a reliable and efficient solution for small to medium-scale applications.
 
+
+  
+
 ## Features
 
 The Employment Management System offers the following key features:
@@ -29,6 +39,13 @@ The Employment Management System offers the following key features:
 4. **Authentication and Authorization**: The system incorporates user authentication and authorization mechanisms to ensure secure access. Only authorized personnel can perform administrative tasks and manage employee data.
 
 5. **Responsive Design**: The user interface is designed to be responsive and compatible with different devices and screen sizes. This ensures a consistent experience for users accessing the system from desktops, laptops, tablets, or mobile devices.
+
+
+
+
+
+<img width="1126" alt="Screenshot 2023-07-01 at 12 30 07 AM" src="https://github.com/Amit-45/employee-manage-django/assets/77204104/d2a876bf-7034-45ba-bf06-5b967a889d97">
+
 
 ## Usage
 
