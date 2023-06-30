@@ -10,11 +10,9 @@ The Employment Management System is developed using the following technologies:
 
 - **Django**: Django is a high-level Python web framework that simplifies the development of complex web applications. It is used in this project for its built-in authentication system, database integration, and MVC architecture.
 
-- **HTML/CSS**: The user interface of the system is created using HTML for structure and CSS for styling. This ensures a visually appealing and responsive design.
+- **HTML**: The user interface of the system is created using HTML for structure . 
 
-- **JavaScript**: JavaScript is utilized for client-side interactivity and dynamic behavior in the system. It enhances the user experience by providing features such as form validation and AJAX requests.
-
-- **Bootstrap**: Bootstrap is a popular CSS framework that provides pre-designed components and styles. It is used to create a modern and responsive user interface.
+- **Bootstrap**: Bootstrap is a popular CSS framework to create a modern and responsive user interface.
 
 - **SQLite**: SQLite is a lightweight and serverless database engine used in this project for data storage. It provides a reliable and efficient solution for small to medium-scale applications.
 
@@ -67,9 +65,7 @@ To use the Employment Management System, follow these steps:
    http://localhost:8000/
    ```
 
-9. Use the System: Explore the various features of the Employment Management System, including employee management, feedback submission, and
-
- testimonial display.
+9. Use the System: Explore the various features of the Employment Management System, including employee management, feedback submission, and testimonial display.
 
 ## License
 
